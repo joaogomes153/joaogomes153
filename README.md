@@ -2,7 +2,8 @@
 
 - 🔭 Hoje trabalho como freelance para qualquer tipo de projeto. 
 - 🌱 Estudando e-comerce (front-end/back-end/banco-de-dados/cyber-segurança).
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
+- 🖥️ Tecnologias: Javascript, Typescript, React, HTML, CSS, Python, C#, C/C++
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gomes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,6 +13,8 @@
   <img align="center" alt="Gomes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gomes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gomes-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gomes-C" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
+  <img align="center" alt="Gomes-C++" height="30" width="40" src="https://devicon-website.vercel.app/api/cplusplus/original.svg">
 </div>
   
   ##
