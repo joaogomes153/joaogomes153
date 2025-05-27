@@ -12,7 +12,6 @@
   <img align="center" alt="Gomes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gomes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gomes-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Gomes-Gif-Meme" height="50" width="60" src="https://tenor.com/view/hoodbender-rdcworld-hoodavatar-hood-avatar-gif-7373043062452024678.gif">
 </div>
   
   ##
