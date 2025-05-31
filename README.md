@@ -1,4 +1,4 @@
-## Bem vindo, eu sou o João Pedro Gomes!
+## Bem vindo, eu sou o João!
 
 - 🔭 Hoje trabalho como freelance para qualquer tipo de projeto. 
 - 🌱 Estudando e-comerce (front-end/back-end/banco-de-dados/cyber-segurança).
