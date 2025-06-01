@@ -5,7 +5,7 @@
 - 😄 Pronomes: ele/dele
 - 🖥️ Tecnologias: JavaScript, TypeScript e React; Python e C#; C e C++; HTML e CSS.
 
-##Conheça minhas habilidades...:
+## Conheça minhas habilidades...:
 
 <div style="display: inline_block"><br>
   <img src="https://tenor.com/view/hoodbender-rdcworld-hoodavatar-hood-avatar-gif-7373043062452024678.gif">
