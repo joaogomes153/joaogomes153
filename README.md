@@ -31,12 +31,8 @@
 </div>
 
 <div align="center"><br>
-<a href="https://github.com/BiaOliveira12">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogomes153&theme=transparent&show_icons=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogomes153&theme=transparent&layout=compact"/>  
+<a href="https://github.com/joaogomes153">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogomes153&theme=cobalt&show_icons=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogomes153&theme=cobalt&layout=compact"/>  
 </div>
-
-  ##
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogomes153&hide=contribs,prs&show_icons=true&theme=cobalt)
 
