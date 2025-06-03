@@ -32,8 +32,8 @@
 
 <div align="center"><br>
 <a href="https://github.com/BiaOliveira12">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiaOliveira12&theme=transparent&show_icons=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaOliveira12&theme=transparent&layout=compact"/>  
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogomes153&theme=transparent&show_icons=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogomes153&theme=transparent&layout=compact"/>  
 </div>
 
   ##
