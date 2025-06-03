@@ -2,10 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=What's+up?+;+My+name's+João+Pedro!+;Welcome+to+my+GitHub;+I+hope+you+enjoy+it!;" />
 </h1>
 
-- 🔭 Hᴏᴊᴇ ᴛʀᴀʙᴀʟʜᴏ ᴄᴏᴍᴏ ғʀᴇᴇʟᴀɴᴄᴇ ᴘᴀʀᴀ ǫᴜᴀʟǫᴜᴇʀ ᴛɪᴘᴏ ᴅᴇ ᴘʀᴏᴊᴇᴛᴏ.
-- 🌱 Esᴛᴜᴅᴀᴅᴏ ɴᴀs ᴀ́ʀᴇᴀs ᴅᴇ ғʀᴏɴᴛ-ᴇɴᴅ ᴍᴏᴅᴇʀɴᴏ, ʙᴀᴄᴋ-ᴇɴᴅ & ᴍᴜʟᴛɪᴜsᴏ, sɪsᴛᴇᴍᴀs & ᴘᴇʀғᴏʀᴍᴀɴᴄᴇ ᴇ ғᴜɴᴅᴀᴍᴇɴᴛᴏs ᴡᴇʙ.
-- 😄 Pʀᴏɴᴏᴍᴇs: ᴇʟᴇ/ᴅᴇʟᴇ.
-- 🖥️ Tᴇᴄɴᴏʟᴏɢɪᴀs: JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ ᴇ Rᴇᴀᴄᴛ; Pʏᴛʜᴏɴ ᴇ C#; C ᴇ C++; HTML ᴇ CSS. 
+#### 🖥️ Sᴏᴍᴇ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs I ᴋɴᴏᴡ: 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gomes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
