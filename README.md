@@ -2,10 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+My+name's+João+Pedro!;+I+hope+you+like+my+profile!;" />
 </h1>
 
-- 🔭 Hoje trabalho como freelance para qualquer tipo de projeto. 
-- 🌱 Estudado nas áreas de front-end moderno, back-end & multiuso, sistemas & performance e fundamentos web.
-- 😄 Pronomes: ele/dele
-- 🖥️ Tecnologias: JavaScript, TypeScript e React; Python e C#; C e C++; HTML e CSS. 
+- 🔭 Hᴏᴊᴇ ᴛʀᴀʙᴀʟʜᴏ ᴄᴏᴍᴏ ғʀᴇᴇʟᴀɴᴄᴇ ᴘᴀʀᴀ ǫᴜᴀʟǫᴜᴇʀ ᴛɪᴘᴏ ᴅᴇ ᴘʀᴏᴊᴇᴛᴏ.
+- 🌱 Esᴛᴜᴅᴀᴅᴏ ɴᴀs ᴀ́ʀᴇᴀs ᴅᴇ ғʀᴏɴᴛ-ᴇɴᴅ ᴍᴏᴅᴇʀɴᴏ, ʙᴀᴄᴋ-ᴇɴᴅ & ᴍᴜʟᴛɪᴜsᴏ, sɪsᴛᴇᴍᴀs & ᴘᴇʀғᴏʀᴍᴀɴᴄᴇ ᴇ ғᴜɴᴅᴀᴍᴇɴᴛᴏs ᴡᴇʙ.
+- 😄 Pʀᴏɴᴏᴍᴇs: ᴇʟᴇ/ᴅᴇʟᴇ.
+- 🖥️ Tᴇᴄɴᴏʟᴏɢɪᴀs: JᴀᴠᴀSᴄʀɪᴘᴛ, TʏᴘᴇSᴄʀɪᴘᴛ ᴇ Rᴇᴀᴄᴛ; Pʏᴛʜᴏɴ ᴇ C#; C ᴇ C++; HTML ᴇ CSS. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gomes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
