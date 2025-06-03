@@ -27,8 +27,13 @@
  	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gomescorreia20751@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
+<div align="center"><br>
+<a href="https://github.com/BiaOliveira12">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiaOliveira12&theme=transparent&show_icons=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaOliveira12&theme=transparent&layout=compact"/>  
 </div>
 
   ##
